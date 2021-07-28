@@ -36,4 +36,5 @@
 
 |Build|Cppcheck|Codacy|
 |:--:|:--:|:--:|
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/33d61e57e15a42cab21e5532d754d131)](https://app.codacy.com/gh/Sriharshakurra/Embedded_project_311185?utm_source=github.com&utm_medium=referral&utm_content=Sriharshakurra/Embedded_project_311185&utm_campaign=Badge_Grade_Settings)
 |[![Compile-Linux](https://github.com/Sriharshakurra/Embedded_project_311185/actions/workflows/Compile.yml/badge.svg)](https://github.com/Sriharshakurra/Embedded_project_311185/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/Sriharshakurra/Embedded_project_311185/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Sriharshakurra/Embedded_project_311185/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/da59f52b107e4b7bb4f5730421aa8c0a)](https://www.codacy.com/gh/MeherThanmaiee/Embedded_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MeherThanmaiee/Embedded_Project&amp;utm_campaign=Badge_Grade)|
